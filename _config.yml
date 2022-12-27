@@ -31,8 +31,8 @@ orcid_username: 0000-0001-6900-1931
 
 # Additional icon links
 additional_links:
-  - title: ResearchGAte
-    icon: images/researchgate.png
+  - title: ResearchGate
+    icon: images/researchgate.ico
     url: https://www.researchgate.net/profile/Juliana-Resplande
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -62,7 +62,7 @@ content:
         caption: 2017 - 2011
         sub_title: BSc Computer Science
         quote: >
-          GPA: 3.6/4.0
+          Graduated with GPA 3.6/4.0
         description: |
           Participated in NLP projects focusing on providing corpora to Portuguese and benchmarking.  
           Thesis focused in algebraic bioinformatics on mapping mutations as operations graph and distance.
@@ -104,7 +104,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Mr. Turing
         link: https://misterturing.com/
         # link_text: boringcompany.com
@@ -115,7 +115,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Training, validation and deployment of AI modules.
 
-      - layout: left
+      - layout: middle
         title: Centro de Excelência em Inteligência Artificial (CEIA)
         link: https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/
         # link_text: boringcompany.com
