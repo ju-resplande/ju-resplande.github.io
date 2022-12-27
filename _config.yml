@@ -32,7 +32,7 @@ orcid_username: 0000-0001-6900-1931
 # Additional icon links
 additional_links:
   - title: ResearchGate
-    icon: images/researchgate.ico
+    icon: fas fa-researchgate
     url: https://www.researchgate.net/profile/Juliana-Resplande
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -90,9 +90,8 @@ content:
         caption: 2020 - 2020
         quote: >
           Corpora automatic translation to Brazilian Portuguese.
-        description: |
-          Providing NLU benchmarking data to Brazilian Portuguese.
-      - layout: top-middle
+        description: Providing NLU benchmarking data to Brazilian Portuguese.
+      - layout: middle
         title: Multi-Tasking Deep Neural Networks in Portuguese
         caption: 2019 - 2020
         quote: >
@@ -104,7 +103,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: middle
         title: Mr. Turing
         link: https://misterturing.com/
         # link_text: boringcompany.com
