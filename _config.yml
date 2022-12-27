@@ -124,7 +124,7 @@ content:
         sub_title: NLP researcher
         caption: January 2020 - Present
         quote: >
-          Researcher in various AI projects as NLU member.
+          <p style="text-align: center;"> Researcher in various AI projects as NLU member. </p>
 
   - title: Honour # Title for the section
     layout: list # Type of content section (list/text)
