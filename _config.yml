@@ -75,8 +75,8 @@ content:
         quote: >
           Information Retrieval in common health question answering pipeline.
         description: |
-          Training and validation of Portuguese IR and answer generation models for QA pipelines.
-          Deployment and validation of QA pipeline.
+          <p style="text-align: center;">Training and validation of Portuguese IR and answer generation models for QA pipelines.
+          Deployment and validation of QA pipeline.</p>
       - layout: top-middle
         title: Development of an Intelligent Assistant for the Copel Holding Shared Services Center
         caption: 2020 - 2021
@@ -91,7 +91,7 @@ content:
         quote: >
           Corpora automatic translation to Brazilian Portuguese.
         description: Providing NLU benchmarking data to Brazilian Portuguese.
-      - layout: middle
+      - layout: top-middle
         title: Multi-Tasking Deep Neural Networks in Portuguese
         caption: 2019 - 2020
         quote: >
