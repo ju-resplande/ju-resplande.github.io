@@ -115,7 +115,7 @@ content:
         quote: >
           Development NLP core in the company product.
         description: | # this will include new lines to allow paragraphs
-          Training, validation and deployment of AI modules.
+          <p style="text-align: center;"> Training, validation and deployment of AI modules. </p>
 
       - layout: middle
         title: Centro de Excelência em Inteligência Artificial (CEIA)
