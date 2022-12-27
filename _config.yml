@@ -83,22 +83,25 @@ content:
         quote: >
           Development of chatbot intent modules.
         description: |
-          Application of data techniques in real world data.
-          Training and validation of chatbot AI modules.
+          <p style="text-align: center;">Application of data techniques in real world data.
+          Training and validation of chatbot AI modules.</p>
       - layout: top-middle
         title: Application of Machine Learning Techniques and Corpus Linguistics in Portuguese
         caption: 2020 - 2020
         quote: >
           Corpora automatic translation to Brazilian Portuguese.
-        description: Providing NLU benchmarking data to Brazilian Portuguese.
+        description: |
+        <p style="text-align: center;"> Providing NLU benchmarking data to Brazilian Portuguese. </p>
       - layout: top-middle
         title: Multi-Tasking Deep Neural Networks in Portuguese
         caption: 2019 - 2020
         quote: >
           Multitasking architecture employment for NLU Portuguese Tasks.
         description: |
+          <p style="text-align: center;">
           Benchmarking of Multitasking BERT models
           Analysis of Translation impact on data.
+          </p>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
