@@ -106,12 +106,21 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        - layout: middle
+        title: Data Lawyer
+        link: https://www.datalawyer.com.br/
+        sub_title: Data scientist
+        caption: April 2023 - Present
+        quote: >
+          ""
+        description: | # this will include new lines to allow paragraphs
+          <p style="text-align: center;"> "" </p>
       - layout: middle
         title: Mr. Turing
         link: https://misterturing.com/
         # link_text: boringcompany.com
         sub_title: NLP engineer
-        caption: January 2021 - Present
+        caption: January 2021 - March 2023
         quote: >
           Development NLP core in the company product.
         description: | # this will include new lines to allow paragraphs
