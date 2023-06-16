@@ -139,7 +139,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ABSAPT 2022
+        title: DepSign - Depression from Social Media Text
+        caption: 2023
+        sub_title: 1st place
+        description: | # this will include new lines to allow paragraphs
+          DepSign-LT-EDI@RANLP-2023 aims to detect the signs of depression of a person from their social media postings wherein people share their feelings and emotions.
+      - layout: left
+        title: ABSAPT - Aspect-Based Sentiment Analysis in Portuguese
         caption: 2022
         sub_title: 1st place
         description: | # this will include new lines to allow paragraphs
