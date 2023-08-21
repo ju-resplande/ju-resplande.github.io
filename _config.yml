@@ -49,7 +49,7 @@ additional_links:
 about_profile_image: https://avatars.githubusercontent.com/u/28462295?v=4
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Juliana and I'm a NLP engineer.
-  My research interests are Portuguese corpora,  Question Answering Systems, and Language Generation.
+  My research interests are Portuguese corpora, Fact-Checking,  Question Answering Systems, and Language Generation.
 
   I skilled in: <mark>Python</mark>, <mark>Bash</mark>, <mark>Pandas</mark>,<mark>Elasticsearch</mark>, <mark>Docker</mark> and <mark>FastAPI</mark>
 
