@@ -34,9 +34,9 @@ additional_links:
   - title: ResearchGate
     icon: fab fa-researchgate
     url: https://www.researchgate.net/profile/Juliana-Resplande
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+ - title: Semantic Scholar
+   icon: ai ai-semantic-scholar
+   url: https://www.semanticscholar.org/author/Juliana-Resplande-Sant'Anna-Gomes/2146511015
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
