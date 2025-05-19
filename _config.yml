@@ -34,9 +34,6 @@ additional_links:
   - title: ResearchGate
     icon: fab fa-researchgate
     url: https://www.researchgate.net/profile/Juliana-Resplande
- - title: Semantic Scholar
-   icon: ai ai-semantic-scholar
-   url: https://www.semanticscholar.org/author/Juliana-Resplande-Sant'Anna-Gomes/2146511015
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -59,13 +56,21 @@ content:
     content:
       - layout: left
         title: Federal University of Goiás
-        caption: 2017 - 2011
+        caption: 2017 - 2021
         sub_title: BSc Computer Science
         quote: >
           Graduated with GPA 3.6/4.0
         description: |
           Participated in NLP projects focusing on providing corpora to Portuguese and benchmarking.  
           Thesis focused in algebraic bioinformatics on mapping mutations as operations graph and distance.
+       - layout: left
+        title: Federal University of Goiás
+        caption: 2023 -
+        sub_title: MSc Computer Science
+        quote: >
+          -
+        description: 
+          -
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
